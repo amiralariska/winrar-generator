@@ -1,0 +1,20 @@
+{
+  "name": "winrar-generator",
+  "version": "0.0.1",
+  "description": "Winrar Generator Tool",
+  "main": "winrargenerator.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amiralariska/winrar-generator.git"
+  },
+  "keywords": [
+    "winrar-generator",
+    "winrar",
+    "rar"
+  ],
+  "author": "Amiral Ariska",
+  "bugs": {
+    "url": "https://github.com/amiralariska/winrar-generator/issues"
+  },
+  "homepage": "https://github.com/amiralariska/winrar-generator#readme"
+}
