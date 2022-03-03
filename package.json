@@ -2,7 +2,7 @@
   "name": "winrar-generator",
   "version": "0.0.1",
   "description": "Winrar Generator Tool",
-  "main": "winrargenerator.js",
+  "main": "winrar-generator.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/amiralariska/winrar-generator.git"
