@@ -1,5 +1,5 @@
 {
-  "name": "winrar-generator-test",
+  "name": "winrar-generator",
   "version": "0.0.1",
   "description": "Winrar Generator Tool",
   "main": "winrargenerator.js",
