@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/amiralariska/winrar-generator/issues"
   },
-  "homepage": "https://github.com/amiralariska/winrar-generator#readme"
+  "homepage": "https://github.com/amiralariska/winrar-generator#readme",
+  "dependencies": {
+    "adm-zip": "^0.5.5",
+    "chalk": "^4.1.1",
+    "commander": "^5.0.0-0",
+    "gradient-string": "^2.0.0",
+    "inquirer": "^8.2.0"
+  }
 }
