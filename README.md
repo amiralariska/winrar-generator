@@ -3,6 +3,6 @@
 Winrar Generator is a rar generator tool<br>
 is a compress and extract tool
 ## Install
-`npm install -g winrar-generator`
+`npm install -g winrargenerator`
 ## Run
-Archive or Extract rar file by running `winrar-generator`
+Archive or Extract rar file by running `winrargenerator`
