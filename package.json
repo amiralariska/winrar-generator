@@ -10,9 +10,6 @@
     "type": "git",
     "url": "https://github.com/amiralariska/winrar-generator.git"
   },
-  "publishConfig": {
-    "access": "public"
-  },
   "keywords": [
     "winrar-generator",
     "winrar",
