@@ -1,10 +1,10 @@
 {
-  "name": "winrar-generator",
+  "name": "winrargenerator",
   "version": "0.0.1",
   "description": "Winrar Generator Tool",
   "main": "winrargenerator.js",
   "bin": {
-    "winrar-generator": "winrargenerator.js"
+    "winrargenerator": "winrar-generator.js"
   },
   "repository": {
     "type": "git",
@@ -12,6 +12,8 @@
   },
   "keywords": [
     "winrar-generator",
+    "winrargenerator",
+    "rar-generator",
     "winrar",
     "rar"
   ],
