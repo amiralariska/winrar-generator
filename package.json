@@ -1,6 +1,6 @@
 {
   "name": "winrargenerator",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Winrar Generator Tool",
   "main": "winrar-generator.js",
   "bin": "./winrar-generator.js",
