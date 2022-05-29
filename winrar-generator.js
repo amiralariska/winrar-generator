@@ -7,7 +7,7 @@ var fs = require('fs');
 var path = require('path');
 var inquirer = require('inquirer');
 
-var version = program.version(`${chalk.hex('#00f')('0.0.2')}
+var version = program.version(`${chalk.hex('#00f')('0.0.4')}
 ${gradient('#f0f', '#00f', '#0f0')('Winrar Generator')}`, '-v, --version', 'display the version');
 program.parse(process.argv);
 console.log(gradient('#f0f', '#00f', '#0f0')('Welcome to Winrar Generator'));
